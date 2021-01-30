@@ -83,7 +83,8 @@
 	   "080" :   "BuildingIcons080YurtClothSmall",
 	   "081" :   "BuildingIcons081YurtThatchBig",
 	   "082" :   "BuildingIcons082YurtThatchSmall",
-	   "083" :   "BuildingIcons083TentSmall"
+	   "083" :   "BuildingIcons083TentSmall",
+	   "084" :   "BuildingIcons084Donjon"
 	},
 	"Units":{
 		"000" :   "UnitIcons00050730",
@@ -439,7 +440,22 @@
 		"350" :   "UnitIcons35050730",
 		"351" :   "UnitIcons35150730",
 		"352" :   "UnitIcons35250730",
-		"353" :   "UnitIcons35350730"
+		"353" :   "UnitIcons35350730",
+		"354" :   "UnitIcons35450730",
+		"355" :   "UnitIcons35550730",
+		"356" :   "UnitIcons35650730",
+		"357" :   "UnitIcons35750730",
+		"358" :   "UnitIcons35850730",
+		"359" :   "UnitIcons35950730",
+		"360" :   "UnitIcons36050730",
+		"361" :   "UnitIcons36150730",
+		"362" :   "UnitIcons36250730",
+		"363" :   "UnitIcons36350730",
+		"364" :   "UnitIcons36450730",
+		"365" :   "UnitIcons36550730",
+		"366" :   "UnitIcons36650730",
+		"367" :   "UnitIcons36750730",
+		"368" :   "UnitIcons36850730"
 	},
 	"Techs":{
 	   "000" : "TechIconsT000CropRotation",
