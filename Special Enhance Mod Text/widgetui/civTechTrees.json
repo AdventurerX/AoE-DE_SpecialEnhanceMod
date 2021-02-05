@@ -1956,6 +1956,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -7090,6 +7120,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -12230,6 +12290,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -17364,6 +17454,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -22504,6 +22624,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -27638,6 +27788,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -32778,6 +32958,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -37912,6 +38122,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -43052,6 +43292,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -48189,6 +48459,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -53323,6 +53623,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -58523,6 +58853,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -63660,6 +64020,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -68794,6 +69184,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -73964,6 +74384,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -79098,6 +79548,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -84238,6 +84718,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -89372,6 +89882,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -94599,6 +95139,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -104936,6 +105506,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -110073,6 +110673,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -115207,6 +115837,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -120376,6 +121036,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -125576,6 +126266,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -130710,6 +131430,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -135910,6 +136660,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -141044,6 +141824,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -146184,6 +146994,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -151318,6 +152158,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -156488,6 +157358,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -161654,6 +162554,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -166854,6 +167784,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -172018,6 +172978,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -177188,6 +178178,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
+"Use Type":"Unit"
+},
+{
 "Age ID":3,
 "Building ID":101,
 "Draw Node Type":"UnitTech",
@@ -182322,6 +183342,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
@@ -187521,6 +188571,36 @@
 "None"
 ],
 "Trigger Tech ID":236,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":101,
+"Draw Node Type":"UnitTech",
+"Help String ID":105417,
+"Link ID":330,
+"Link Node Type":"UnitUpgrade",
+"Name":"Imperial Camel Rider",
+"Name String ID":5419,
+"Node ID":207,
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
+"Picture Index":185,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":521,
 "Use Type":"Unit"
 },
 {
