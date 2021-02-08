@@ -2436,6 +2436,66 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -4455,6 +4515,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -7603,6 +7723,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -9622,6 +9772,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105345,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5345,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":265,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -12770,6 +12980,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -14789,6 +15029,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -17937,6 +18237,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -19956,6 +20286,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -23104,6 +23494,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -25123,6 +25543,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -28271,6 +28751,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -30290,6 +30800,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -33438,6 +34008,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -34881,6 +35481,126 @@
 "Age ID":3,
 "Building ID":82,
 "Draw Node Type":"UnitTech",
+"Help String ID":105574,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Berserk",
+"Name String ID":5574,
+"Node ID":692,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":38,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
+"Help String ID":105576,
+"Link ID":692,
+"Link Node Type":"UniqueUnit",
+"Name":"Elite Berserk",
+"Name String ID":5576,
+"Node ID":694,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":38,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":398,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
+"Help String ID":105111,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Throwing Axeman",
+"Name String ID":5111,
+"Node ID":281,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":46,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
+"Help String ID":105461,
+"Link ID":281,
+"Link Node Type":"UniqueUnit",
+"Name":"Elite Throwing Axeman",
+"Name String ID":5461,
+"Node ID":531,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":46,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":363,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
 "Help String ID":105660,
 "Link ID":-1,
 "Link Node Type":"BuildingTech",
@@ -35457,6 +36177,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105503,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5503,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":156,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -38605,6 +39385,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -40048,6 +40858,66 @@
 "Age ID":3,
 "Building ID":82,
 "Draw Node Type":"UnitTech",
+"Help String ID":105101,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Cataphract",
+"Name String ID":5101,
+"Node ID":40,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":35,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
+"Help String ID":105451,
+"Link ID":40,
+"Link Node Type":"UniqueUnit",
+"Name":"Elite Cataphract",
+"Name String ID":5451,
+"Node ID":553,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":35,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":361,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
 "Help String ID":105660,
 "Link ID":-1,
 "Link Node Type":"BuildingTech",
@@ -40138,11 +41008,11 @@
 "Age ID":4,
 "Building ID":82,
 "Draw Node Type":"UnitTech",
-"Help String ID":107423,
+"Help String ID":107270,
 "Link ID":-1,
 "Link Node Type":"BuildingTech",
 "Name":"Mahouts",
-"Name String ID":7423,
+"Name String ID":7270,
 "Node ID":7,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Research",
@@ -40624,6 +41494,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -43772,6 +44702,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -45215,6 +46175,66 @@
 "Age ID":3,
 "Building ID":82,
 "Draw Node Type":"UnitTech",
+"Help String ID":105134,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Camel Archer",
+"Name String ID":5134,
+"Node ID":1007,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":191,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
+"Help String ID":105136,
+"Link ID":1007,
+"Link Node Type":"UniqueUnit",
+"Name":"Elite Camel Archer",
+"Name String ID":5136,
+"Node ID":1009,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":191,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":565,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
 "Help String ID":105660,
 "Link ID":-1,
 "Link Node Type":"BuildingTech",
@@ -45791,6 +46811,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -48939,6 +50019,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -50958,6 +52068,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -54106,6 +55276,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -56185,6 +57385,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -59333,6 +60593,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -60776,6 +62066,66 @@
 "Age ID":3,
 "Building ID":82,
 "Draw Node Type":"UnitTech",
+"Help String ID":105313,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Keshik",
+"Name String ID":5313,
+"Node ID":1228,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":251,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
+"Help String ID":105314,
+"Link ID":1228,
+"Link Node Type":"UniqueUnit",
+"Name":"Elite Keshik",
+"Name String ID":5314,
+"Node ID":1230,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":251,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":680,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
 "Help String ID":105660,
 "Link ID":-1,
 "Link Node Type":"BuildingTech",
@@ -61352,6 +62702,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -64500,6 +65910,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -66519,6 +67959,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -69667,6 +71167,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -71716,6 +73246,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -74864,6 +76454,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -76883,6 +78503,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105733,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5733,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":115,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -80031,6 +81711,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -82050,6 +83760,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105733,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5733,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":115,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -85198,6 +86968,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -87217,6 +89017,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -90365,6 +92225,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -92444,6 +94334,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -95622,6 +97572,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -97365,6 +99345,36 @@
 "Age ID":3,
 "Building ID":104,
 "Draw Node Type":"UnitTech",
+"Help String ID":105691,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Missionary",
+"Name String ID":5691,
+"Node ID":775,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":107,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":104,
+"Draw Node Type":"UnitTech",
 "Help String ID":107315,
 "Link ID":-1,
 "Link Node Type":"BuildingTech",
@@ -97641,6 +99651,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105345,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5345,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":265,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -100789,6 +102859,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -102232,6 +104332,66 @@
 "Age ID":3,
 "Building ID":82,
 "Draw Node Type":"UnitTech",
+"Help String ID":105109,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"War Elephant",
+"Name String ID":5109,
+"Node ID":239,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":43,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
+"Help String ID":105459,
+"Link ID":239,
+"Link Node Type":"UniqueUnit",
+"Name":"Elite War Elephant",
+"Name String ID":5459,
+"Node ID":558,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":43,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":367,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
 "Help String ID":105660,
 "Link ID":-1,
 "Link Node Type":"BuildingTech",
@@ -102292,11 +104452,11 @@
 "Age ID":3,
 "Building ID":82,
 "Draw Node Type":"UnitTech",
-"Help String ID":107270,
+"Help String ID":107423,
 "Link ID":-1,
 "Link Node Type":"BuildingTech",
 "Name":"Sultans",
-"Name String ID":7270,
+"Name String ID":7423,
 "Node ID":506,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Research",
@@ -102808,6 +104968,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105733,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5733,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":115,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -105986,6 +108206,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -108005,6 +110255,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105503,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5503,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":156,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -111153,6 +113463,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -113172,6 +115512,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -116320,6 +118720,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -118339,6 +120769,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -121519,6 +124009,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -123598,6 +126118,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -126746,6 +129326,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -128765,6 +131375,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -131913,6 +134583,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -133932,6 +136632,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -137140,6 +139900,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -139159,6 +141949,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -142307,6 +145157,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -144326,6 +147206,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -147474,6 +150414,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -149493,6 +152463,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -152641,6 +155671,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -154660,6 +157720,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -157838,6 +160958,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -159857,6 +163007,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -163037,6 +166247,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -165116,6 +168356,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -168264,6 +171564,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -170313,6 +173643,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -173461,6 +176851,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -175510,6 +178930,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105498,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5498,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":96,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -178658,6 +182138,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -180677,6 +184187,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -183825,6 +187395,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -185844,6 +189444,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105346,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5346,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":269,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
@@ -189054,6 +192714,36 @@
 "Use Type":"Unit"
 },
 {
+"Age ID":4,
+"Building ID":49,
+"Draw Node Type":"UnitTech",
+"Help String ID":105093,
+"Link ID":36,
+"Link Node Type":"Unit",
+"Name":"Imperial Bombard Cannon",
+"Name String ID":7441,
+"Node ID":2152,
+"Node Status":"NotAvailable",
+"Node Type":"Unit",
+"Picture Index":30,
+"Prerequisite IDs":[
+910,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"Tech",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
@@ -191133,6 +194823,66 @@
 "Name":"Villager",
 "Name String ID":5606,
 "Node ID":83,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":15,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105503,
+"Link ID":83,
+"Link Node Type":"Unit",
+"Name":"Sheep,
+"Name String ID":5503,
+"Node ID":594,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":156,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":109,
+"Draw Node Type":"UnitTech",
+"Help String ID":105502,
+"Link ID":594,
+"Link Node Type":"Unit",
+"Name":"Cow,
+"Name String ID":5502,
+"Node ID":705,
 "Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":15,
