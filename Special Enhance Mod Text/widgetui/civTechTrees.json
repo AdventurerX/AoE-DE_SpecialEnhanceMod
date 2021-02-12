@@ -963,6 +963,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -978,6 +979,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -5466,6 +5499,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -6432,6 +6735,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -6447,6 +6751,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -10905,6 +11241,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -11871,6 +12477,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -11886,6 +12493,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -16344,6 +16983,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -17310,6 +18219,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -17325,6 +18235,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -21783,6 +22725,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -22749,6 +23961,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -22764,6 +23977,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -27222,6 +28467,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -28188,6 +29703,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -28203,6 +29719,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -32661,6 +34209,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -33627,6 +35445,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -33642,6 +35461,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -38160,6 +40011,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -39126,6 +41247,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -39141,6 +41263,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -43659,6 +45813,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -44625,6 +47049,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -44640,6 +47065,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -49158,6 +51615,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -50124,6 +52851,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -50139,6 +52867,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -54597,6 +57357,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -55563,6 +58593,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -55578,6 +58609,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -60156,6 +63219,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -61122,6 +64455,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -61137,6 +64471,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -65715,6 +69081,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -66681,6 +70317,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -66696,6 +70333,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -71154,6 +74823,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -72120,6 +76059,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -72135,6 +76075,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -76623,6 +80595,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -77589,6 +81831,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -77604,6 +81847,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -82062,6 +86337,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -83028,6 +87573,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -83043,6 +87589,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -87501,6 +92079,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -88467,6 +93315,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -88482,6 +93331,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -92940,6 +97821,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -93906,6 +99057,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -93921,6 +99073,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -98439,6 +103623,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -99405,6 +104859,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -99420,6 +104875,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -103938,6 +109425,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -104904,6 +110661,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -104919,6 +110677,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -109437,6 +115227,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -110403,6 +116463,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -110418,6 +116479,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -114906,6 +120999,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -115872,6 +122235,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -115887,6 +122251,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -120345,6 +126741,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -121311,6 +127977,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -121326,6 +127993,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -125784,6 +132483,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -126782,6 +133751,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -126797,6 +133767,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -131315,6 +138317,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -132281,6 +139553,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -132296,6 +139569,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -136754,6 +144059,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -137720,6 +145295,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -137735,6 +145311,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -142193,6 +149801,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -143159,6 +151037,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -143174,6 +151053,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -147692,6 +155603,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -148658,6 +156839,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -148673,6 +156855,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -153131,6 +161345,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -154097,6 +162581,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -154112,6 +162597,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -158570,6 +167087,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -159536,6 +168323,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -159551,6 +168339,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -164009,6 +172829,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -164975,6 +174065,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -164990,6 +174081,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -169478,6 +178601,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -170476,6 +179869,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -170491,6 +179885,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -175009,6 +184435,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -175975,6 +185671,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -175990,6 +185687,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -180478,6 +190207,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -181444,6 +191443,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -181459,6 +191459,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -185947,6 +195979,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -186913,6 +197215,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -186928,6 +197231,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -191386,6 +201721,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -192352,6 +202957,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -192367,6 +202973,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -196855,6 +207493,276 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
 }
 ]
 },
@@ -197853,6 +208761,7 @@
 "Trigger Tech ID":-1,
 "Use Type":"Building"
 },
+
 {
 "Age ID":1,
 "Building ID":68,
@@ -197868,6 +208777,38 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"BuildingTech",
 "Picture Index":19,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Building"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Building in new column":true,
+"Building upgraded from ID":-1,
+"Draw Node Type":"Building",
+"Help String ID":105067,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Tavern",
+"Name String ID":5067,
+"Node ID":2124,
+"Node Status":"ResearchedCompleted",
+"Node Type":"BuildingTech",
+"Picture Index":17,
 "Prerequisite IDs":[
 0,
 0,
@@ -202386,6 +213327,278 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Tech"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105297,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HJODA",
+"Name String ID":5297,
+"Node ID":2139,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":52,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105640,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HROBN",
+"Name String ID":5640,
+"Node ID":2125,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":326,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":1,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105621,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HBELIS",
+"Name String ID":5621,
+"Node ID":2126,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":187,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105530,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HCUAUT",
+"Name String ID":5530,
+"Node ID":2127,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":146,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105580,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HSUBO",
+"Name String ID":5580,
+"Node ID":2128,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":53,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105292,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"HFORE",
+"Name String ID":5292,
+"Node ID":2129,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":153,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105625,
+"Link ID":2127,
+"Link Node Type":"BuildingTech",
+"Name":"HERIK",
+"Name String ID":5625,
+"Node ID":2130,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":118,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105243,
+"Link ID":2128,
+"Link Node Type":"BuildingTech",
+"Name":"HBUIBI",
+"Name String ID":5243,
+"Node ID":2131,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":235,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":2,
+"Building ID":2124,
+"Draw Node Type":"UnitTech",
+"Help String ID":105474,
+"Link ID":2129,
+"Link Node Type":"BuildingTech",
+"Name":"HVASCO",
+"Name String ID":5474,
+"Node ID":2140,
+"Node Status":"ResearchedCompleted",
+"Node Type":"Unit",
+"Picture Index":167,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+}
+
 }
 ]
 }
