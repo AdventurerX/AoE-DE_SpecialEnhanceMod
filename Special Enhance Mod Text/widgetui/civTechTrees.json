@@ -187251,7 +187251,7 @@
 "Name":"Bombard Tower",
 "Name String ID":5156,
 "Node ID":236,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchRequired",
 "Node Type":"BuildingNonTech",
 "Picture Index":42,
 "Prerequisite IDs":[
@@ -189858,7 +189858,7 @@
 "Name":"Cannon Galleon",
 "Name String ID":5287,
 "Node ID":420,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchRequired",
 "Node Type":"Unit",
 "Picture Index":55,
 "Prerequisite IDs":[
@@ -190368,7 +190368,7 @@
 "Name":"Bombard Tower",
 "Name String ID":7320,
 "Node ID":64,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":47,
 "Prerequisite IDs":[
