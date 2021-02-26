@@ -60080,7 +60080,7 @@
 "Name":"Halberdier",
 "Name String ID":5409,
 "Node ID":359,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":104,
 "Prerequisite IDs":[
@@ -70769,7 +70769,7 @@
 "Name":"Guard Tower",
 "Name String ID":5154,
 "Node ID":234,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchRequired",
 "Node Type":"BuildingNonTech",
 "Picture Index":76,
 "Prerequisite IDs":[
@@ -74264,7 +74264,7 @@
 "Name":"Guard Tower",
 "Name String ID":7186,
 "Node ID":140,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":76,
 "Prerequisite IDs":[
