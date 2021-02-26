@@ -72704,7 +72704,7 @@
 "Name":"Siege Ram",
 "Name String ID":5446,
 "Node ID":548,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":73,
 "Prerequisite IDs":[
@@ -72794,7 +72794,7 @@
 "Name":"Siege Onager",
 "Name String ID":5493,
 "Node ID":588,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":102,
 "Prerequisite IDs":[
