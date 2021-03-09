@@ -213008,7 +213008,7 @@
 "Name":"Camel Rider",
 "Name String ID":5416,
 "Node ID":329,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":78,
 "Prerequisite IDs":[
@@ -213038,7 +213038,7 @@
 "Name":"Heavy Camel Rider",
 "Name String ID":5417,
 "Node ID":330,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":79,
 "Prerequisite IDs":[
