@@ -24428,7 +24428,7 @@
 "Name":"Crossbowman",
 "Name String ID":5084,
 "Node ID":24,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":18,
 "Prerequisite IDs":[
@@ -24458,7 +24458,7 @@
 "Name":"Arbalester",
 "Name String ID":5418,
 "Node ID":492,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":90,
 "Prerequisite IDs":[
@@ -72704,7 +72704,7 @@
 "Name":"Siege Ram",
 "Name String ID":5446,
 "Node ID":548,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":73,
 "Prerequisite IDs":[
@@ -73124,7 +73124,7 @@
 "Name":"Bracer",
 "Name String ID":7151,
 "Node ID":201,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":37,
 "Prerequisite IDs":[
@@ -73874,7 +73874,7 @@
 "Name":"Galleon",
 "Name String ID":5309,
 "Node ID":442,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":60,
 "Prerequisite IDs":[
