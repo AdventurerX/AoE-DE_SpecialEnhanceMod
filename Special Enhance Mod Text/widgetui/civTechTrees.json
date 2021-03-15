@@ -31310,7 +31310,7 @@
 "Name":"Steppe Lancer",
 "Name String ID":5009,
 "Node ID":1370,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":273,
 "Prerequisite IDs":[
@@ -43034,7 +43034,7 @@
 "Name":"Steppe Lancer",
 "Name String ID":5009,
 "Node ID":1370,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":273,
 "Prerequisite IDs":[
@@ -131114,7 +131114,7 @@
 "Name":"Steppe Lancer",
 "Name String ID":5009,
 "Node ID":1370,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":273,
 "Prerequisite IDs":[
