@@ -7112,7 +7112,7 @@
 "Name":"Heavy Cavalry Archer",
 "Name String ID":5412,
 "Node ID":474,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":71,
 "Prerequisite IDs":[
