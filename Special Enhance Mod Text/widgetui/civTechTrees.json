@@ -167218,7 +167218,7 @@
 "Name":"Fast Fire Ship",
 "Name String ID":5429,
 "Node ID":532,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":85,
 "Prerequisite IDs":[
@@ -167578,7 +167578,7 @@
 "Name":"Galleon",
 "Name String ID":5309,
 "Node ID":442,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":60,
 "Prerequisite IDs":[
@@ -167698,7 +167698,7 @@
 "Name":"Shipwright",
 "Name String ID":7377,
 "Node ID":373,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":97,
 "Prerequisite IDs":[
