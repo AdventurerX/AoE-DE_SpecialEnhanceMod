@@ -66032,7 +66032,7 @@
 "Name":"Halberdier",
 "Name String ID":5409,
 "Node ID":359,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":104,
 "Prerequisite IDs":[
