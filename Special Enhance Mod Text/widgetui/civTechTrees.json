@@ -54818,7 +54818,7 @@
 "Name":"Steppe Lancer",
 "Name String ID":5009,
 "Node ID":1370,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":273,
 "Prerequisite IDs":[
@@ -54848,7 +54848,7 @@
 "Name":"Elite Steppe Lancer",
 "Name String ID":5010,
 "Node ID":1372,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":274,
 "Prerequisite IDs":[
