@@ -59630,7 +59630,7 @@
 "Name":"Arbalester",
 "Name String ID":5418,
 "Node ID":492,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":90,
 "Prerequisite IDs":[
@@ -142780,7 +142780,7 @@
 "Name":"Imperial Camel Rider",
 "Name String ID":5419,
 "Node ID":207,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":185,
 "Prerequisite IDs":[
