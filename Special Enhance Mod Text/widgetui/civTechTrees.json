@@ -196050,7 +196050,7 @@
 "Name":"Ring Archer Armor",
 "Name String ID":7216,
 "Node ID":219,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":51,
 "Prerequisite IDs":[
