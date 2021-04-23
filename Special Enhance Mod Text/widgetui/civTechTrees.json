@@ -4752,7 +4752,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -4782,7 +4782,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -10584,7 +10584,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105345,
 "Link ID":-1,
@@ -10614,7 +10614,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -16416,7 +16416,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -16446,7 +16446,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -22248,7 +22248,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -22278,7 +22278,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -28080,7 +28080,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -28110,7 +28110,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -33912,7 +33912,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -33942,7 +33942,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -39804,7 +39804,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105503,
 "Link ID":-1,
@@ -39834,7 +39834,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -45696,7 +45696,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -45726,7 +45726,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -51588,7 +51588,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -51618,7 +51618,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -57420,7 +57420,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -57450,7 +57450,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -63372,7 +63372,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -63402,7 +63402,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -69321,10 +69321,9 @@
 ],
 "Trigger Tech ID":-1,
 "Use Type":"Unit"
-},
-{
+},{
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -69354,7 +69353,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -75156,7 +75155,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -75186,7 +75185,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -81018,7 +81017,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -81048,7 +81047,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -86850,7 +86849,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105733,
 "Link ID":-1,
@@ -86880,7 +86879,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -92682,7 +92681,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105733,
 "Link ID":-1,
@@ -92712,7 +92711,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -98514,7 +98513,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -98544,7 +98543,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -104406,7 +104405,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -104436,7 +104435,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -110298,7 +110297,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105345,
 "Link ID":-1,
@@ -110328,7 +110327,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -116190,7 +116189,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105733,
 "Link ID":-1,
@@ -116220,7 +116219,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -122052,7 +122051,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105503,
 "Link ID":-1,
@@ -122082,7 +122081,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -127884,7 +127883,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -127914,7 +127913,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -133716,7 +133715,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -133746,7 +133745,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -139640,7 +139639,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -139670,7 +139669,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -145472,7 +145471,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -145502,7 +145501,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -151304,7 +151303,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -151334,7 +151333,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -157196,7 +157195,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -157226,7 +157225,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -163028,7 +163027,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -163058,7 +163057,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -168860,7 +168859,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -168890,7 +168889,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -174692,7 +174691,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -174722,7 +174721,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -180554,7 +180553,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -180584,7 +180583,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -186478,7 +186477,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -186508,7 +186507,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -192340,7 +192339,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -192370,7 +192369,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -196050,7 +196049,7 @@
 "Name":"Ring Archer Armor",
 "Name String ID":7216,
 "Node ID":219,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":51,
 "Prerequisite IDs":[
@@ -197157,7 +197156,7 @@
 "Help String ID":107047,
 "Link ID":-1,
 "Link Node Type":"BuildingTech",
-"Name":"Chemistry",
+"Name":"NotAvailable",
 "Name String ID":7047,
 "Node ID":47,
 "Node Status":"ResearchedCompleted",
@@ -198202,7 +198201,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105498,
 "Link ID":-1,
@@ -198232,7 +198231,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -204034,7 +204033,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -204064,7 +204063,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -209866,7 +209865,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105346,
 "Link ID":-1,
@@ -209896,7 +209895,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
@@ -215820,7 +215819,7 @@
 },
 {
 "Age ID":1,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105503,
 "Link ID":-1,
@@ -215850,7 +215849,7 @@
 },
 {
 "Age ID":3,
-"Building ID":109,
+"Building ID":68,
 "Draw Node Type":"UnitTech",
 "Help String ID":105502,
 "Link ID":594,
