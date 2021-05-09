@@ -2531,36 +2531,6 @@
 "Use Type":"Unit"
 },
 {
-"Age ID":4,
-"Building ID":49,
-"Draw Node Type":"UnitTech",
-"Help String ID":105093,
-"Link ID":36,
-"Link Node Type":"Unit",
-"Name":"Imperial Bombard Cannon",
-"Name String ID":7441,
-"Node ID":2152,
-"Node Status":"NotAvailable",
-"Node Type":"Unit",
-"Picture Index":30,
-"Prerequisite IDs":[
-0,
-0,
-0,
-0,
-0
-],
-"Prerequisite Types":[
-"None",
-"None",
-"None",
-"None",
-"None"
-],
-"Trigger Tech ID":-1,
-"Use Type":"Unit"
-},
-{
 "Age ID":2,
 "Building ID":103,
 "Draw Node Type":"UnitTech",
