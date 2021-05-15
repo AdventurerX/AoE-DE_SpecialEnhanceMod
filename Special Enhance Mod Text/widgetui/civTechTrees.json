@@ -7022,7 +7022,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -12854,7 +12854,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -18686,7 +18686,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -24518,7 +24518,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -36182,7 +36182,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -42074,7 +42074,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -47966,7 +47966,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -53858,7 +53858,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -71593,7 +71593,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -74113,7 +74113,7 @@
 "Name":"Chemistry",
 "Name String ID":7047,
 "Node ID":47,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":12,
 "Prerequisite IDs":[
@@ -77425,7 +77425,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -100783,7 +100783,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -106675,7 +106675,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -112567,7 +112567,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -130153,7 +130153,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -132673,7 +132673,7 @@
 "Name":"Chemistry",
 "Name String ID":7047,
 "Node ID":47,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":12,
 "Prerequisite IDs":[
@@ -136017,7 +136017,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -147741,7 +147741,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -153573,7 +153573,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -159465,7 +159465,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -161505,7 +161505,7 @@
 "Name":"Cannon Galleon",
 "Name String ID":5287,
 "Node ID":420,
-"Node Status":"ResearchRequired",
+"Node Status":"NotAvailable",
 "Node Type":"Unit",
 "Picture Index":55,
 "Prerequisite IDs":[
@@ -161985,7 +161985,7 @@
 "Name":"Chemistry",
 "Name String ID":7047,
 "Node ID":47,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":12,
 "Prerequisite IDs":[
@@ -182855,7 +182855,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -185375,7 +185375,7 @@
 "Name":"Chemistry",
 "Name String ID":7047,
 "Node ID":47,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":12,
 "Prerequisite IDs":[
@@ -188747,7 +188747,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -194609,7 +194609,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -200471,7 +200471,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -206303,7 +206303,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"ResearchRequired",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -212197,7 +212197,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -214237,7 +214237,7 @@
 "Name":"Cannon Galleon",
 "Name String ID":5287,
 "Node ID":420,
-"Node Status":"ResearchRequired",
+"Node Status":"NotAvailable",
 "Node Type":"Unit",
 "Picture Index":55,
 "Prerequisite IDs":[
@@ -214717,7 +214717,7 @@
 "Name":"Chemistry",
 "Name String ID":7047,
 "Node ID":47,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":12,
 "Prerequisite IDs":[
