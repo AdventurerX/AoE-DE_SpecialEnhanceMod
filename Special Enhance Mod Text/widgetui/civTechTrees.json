@@ -43574,7 +43574,7 @@
 "Name":"Bombard Cannon",
 "Name String ID":5093,
 "Node ID":36,
-"Node Status":"ResearchRequired",
+"Node Status":"NotAvailable",
 "Node Type":"Unit",
 "Picture Index":30,
 "Prerequisite IDs":[
@@ -142629,7 +142629,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
@@ -155643,7 +155643,7 @@
 "Name":"Heavy Scorpion",
 "Name String ID":5439,
 "Node ID":542,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":89,
 "Prerequisite IDs":[
