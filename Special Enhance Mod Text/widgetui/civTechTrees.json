@@ -177981,7 +177981,7 @@
 "Name":"Hand Cannoneer",
 "Name String ID":5086,
 "Node ID":5,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":22,
 "Prerequisite IDs":[
