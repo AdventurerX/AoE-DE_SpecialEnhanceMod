@@ -54968,7 +54968,7 @@
 "Name":"Imperial Camel Rider",
 "Name String ID":5419,
 "Node ID":207,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":185,
 "Prerequisite IDs":[
@@ -57041,6 +57041,66 @@
 "Node Status":"ResearchedCompleted",
 "Node Type":"UniqueUnit",
 "Picture Index":39,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":369,
+"Use Type":"Unit"
+},
+{
+"Age ID":3,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
+"Help String ID":105103,
+"Link ID":-1,
+"Link Node Type":"BuildingTech",
+"Name":"Mameluke",
+"Name String ID":5103,
+"Node ID":282,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":37,
+"Prerequisite IDs":[
+0,
+0,
+0,
+0,
+0
+],
+"Prerequisite Types":[
+"None",
+"None",
+"None",
+"None",
+"None"
+],
+"Trigger Tech ID":-1,
+"Use Type":"Unit"
+},
+{
+"Age ID":4,
+"Building ID":82,
+"Draw Node Type":"UnitTech",
+"Help String ID":105453,
+"Link ID":282,
+"Link Node Type":"UniqueUnit",
+"Name":"Elite Mameluke",
+"Name String ID":5453,
+"Node ID":556,
+"Node Status":"ResearchedCompleted",
+"Node Type":"UniqueUnit",
+"Picture Index":37,
 "Prerequisite IDs":[
 0,
 0,
@@ -113827,7 +113887,7 @@
 "Name":"Knight",
 "Name String ID":5068,
 "Node ID":38,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":1,
 "Prerequisite IDs":[
@@ -113978,7 +114038,7 @@
 "Name String ID":5419,
 "Node ID":207,
 "Node Status":"NotAvailable",
-"Node Type":"UnitUpgrade",
+"Node Type":"ResearchedCompleted",
 "Picture Index":185,
 "Prerequisite IDs":[
 0,
@@ -190547,7 +190607,7 @@
 "Name":"Imperial Camel Rider",
 "Name String ID":5419,
 "Node ID":207,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":185,
 "Prerequisite IDs":[
