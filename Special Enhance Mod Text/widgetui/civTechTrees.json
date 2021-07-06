@@ -73093,8 +73093,8 @@
 "Name":"Siege Ram",
 "Name String ID":5446,
 "Node ID":548,
-"Node Status":"ResearchedCompleted",
-"Node Type":"NotAvailable",
+"Node Status":"NotAvailable",
+"Node Type":"UnitUpgrade",
 "Picture Index":73,
 "Prerequisite IDs":[
 0,
@@ -114037,8 +114037,8 @@
 "Name":"Imperial Camel Rider",
 "Name String ID":5419,
 "Node ID":207,
-"Node Status":"NotAvailable",
-"Node Type":"ResearchedCompleted",
+"Node Status":"ResearchedCompleted",
+"Node Type":"UnitUpgrade",
 "Picture Index":185,
 "Prerequisite IDs":[
 0,
